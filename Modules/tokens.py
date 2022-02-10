@@ -1,0 +1,4 @@
+BOT_TOKEN = 'None'
+OWM_TOKEN = 'None'
+API_GUARDIAN_TOKEN = "None"
+
